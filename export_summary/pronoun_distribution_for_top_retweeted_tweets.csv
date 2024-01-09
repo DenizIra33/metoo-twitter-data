@@ -1,0 +1,51 @@
+pronoun,explain,created_at
+i,"pronoun, personal",11505
+you,"pronoun, personal",9542
+it,"pronoun, personal",9150
+we,"pronoun, personal",6617
+who,"wh-pronoun, personal",5130
+this,determiner,4232
+he,"pronoun, personal",3955
+my,"pronoun, possessive",3559
+they,"pronoun, personal",3392
+their,"pronoun, possessive",2990
+she,"pronoun, personal",2969
+your,"pronoun, possessive",2842
+what,"wh-pronoun, personal",2805
+his,"pronoun, possessive",2710
+me,"pronoun, personal",2665
+her,"pronoun, possessive",2472
+our,"pronoun, possessive",2076
+that,wh-determiner,1982
+him,"pronoun, personal",1652
+them,"pronoun, personal",1495
+all,determiner,1375
+#,determiner,1366
+us,"pronoun, personal",1361
+that,determiner,1298
+her,"pronoun, personal",1261
+there,existential there,1239
+its,"pronoun, possessive",576
+those,determiner,572
+everyone,"noun, singular or mass",553
+which,wh-determiner,538
+someone,"noun, singular or mass",502
+anyone,"noun, singular or mass",493
+nothing,"noun, singular or mass",458
+something,"noun, singular or mass",344
+anything,"noun, singular or mass",277
+some,determiner,273
+'s,"pronoun, personal",270
+everything,"noun, singular or mass",260
+’s,"pronoun, personal",244
+themselves,"pronoun, personal",207
+himself,"pronoun, personal",187
+yourself,"pronoun, personal",164
+u,"pronoun, personal",157
+myself,"pronoun, personal",131
+these,determiner,128
+no,determiner,124
+herself,"pronoun, personal",121
+both,determiner,111
+nobody,"noun, singular or mass",110
+any,determiner,106
