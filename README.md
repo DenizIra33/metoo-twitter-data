@@ -1,6 +1,6 @@
 # MeToo Twitter Data
 
-This repository is used for the Master Thesis of Sophie Mottier, entitled "Au delà des 280 caractères: modes de constitution des collectifs et formes énonciatives au sein du mouvement #MeToo sur Twitter".
+This repository is used for the Master Thesis of Sophie Mottier, entitled *"Au delà des 280 caractères: modes de constitution des collectifs et formes énonciatives au sein du mouvement #MeToo sur Twitter"*.
 ![Wordcloud of the top retweeted tweets](https://github.com/DenizIra33/metoo-twitter-data/blob/main/wordcloud.png?raw=true)
 
 This repository contains the code used to extact tweets and key statistics about the MeToo Movement on Twitter. 
